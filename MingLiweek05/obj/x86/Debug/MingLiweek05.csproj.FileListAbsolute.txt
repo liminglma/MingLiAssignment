@@ -1,0 +1,453 @@
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\obj\x86\Debug\MingLiweek05.csprojResolveAssemblyReference.cache
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\ground\Ground.xnb
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_back_0.xnb
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\skybox.xnb
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\MingLiweek05.exe
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\MingLiweek05.pdb
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.dll
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.xml
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\obj\x86\Debug\MingLiweek05.exe
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\obj\x86\Debug\MingLiweek05.pdb
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\ground\3SNe_0.xnb
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_front_0.xnb
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_left_0.xnb
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_right_0.xnb
+C:\Users\11911664\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_top_0.xnb
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\obj\x86\Debug\MingLiweek05.exe
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\obj\x86\Debug\MingLiweek05.pdb
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_back_0.xnb
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_front_0.xnb
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_left_0.xnb
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_right_0.xnb
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_top_0.xnb
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\skybox.xnb
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\ground\3SNe_0.xnb
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\ground\Ground.xnb
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\MingLiweek05.exe
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\MingLiweek05.pdb
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.dll
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.xml
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\42128\Desktop\MingLiweek05\MingLiweek05\obj\x86\Debug\MingLiweek05.csprojResolveAssemblyReference.cache
+E:\projects\MingLiweek05\MingLiweek05\obj\x86\Debug\MingLiweek05.exe
+E:\projects\MingLiweek05\MingLiweek05\obj\x86\Debug\MingLiweek05.pdb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_back_0.xnb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_front_0.xnb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_left_0.xnb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_right_0.xnb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_top_0.xnb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\skybox.xnb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\ground\3SNe_0.xnb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\ground\Ground.xnb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\MingLiweek05.exe
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\MingLiweek05.pdb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.dll
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.dll
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.dll
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.xml
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.xml
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.xml
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\projects\MingLiweek05\MingLiweek05\obj\x86\Debug\MingLiweek05.csprojResolveAssemblyReference.cache
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\engine_diff_tex_0.xnb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\tank.xnb
+E:\projects\MingLiweek05\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\turret_alt_diff_tex_0.xnb
+E:\projects\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.exe
+E:\projects\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.pdb
+E:\projects\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.csprojResolveAssemblyReference.cache
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_back_0.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_front_0.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_left_0.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_right_0.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_top_0.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\skybox.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\ground\3SNe_0.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\ground\Ground.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\engine_diff_tex_0.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\tank.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\turret_alt_diff_tex_0.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\MingLiweek05.exe
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\MingLiweek05.pdb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.dll
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.dll
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.dll
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.xml
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.xml
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.xml
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\font\Arial.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\engine_diff_tex_0.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\tank.xnb
+E:\projects\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\turret_alt_diff_tex_0.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.exe
+E:\projects\savingDraft\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.pdb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_back_0.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_front_0.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_left_0.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_right_0.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_top_0.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\skybox.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\ground\3SNe_0.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\ground\Ground.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\engine_diff_tex_0.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\tank.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\turret_alt_diff_tex_0.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\engine_diff_tex_0.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\tank.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\turret_alt_diff_tex_0.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\Content\font\Arial.xnb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\MingLiweek05.exe
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\MingLiweek05.pdb
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.dll
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.dll
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.dll
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.xml
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.xml
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.xml
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\projects\savingDraft\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\projects\savingDraft\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.csprojResolveAssemblyReference.cache
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.exe
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.pdb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_back_0.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_front_0.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_left_0.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_right_0.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_top_0.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\skybox.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\ground\3SNe_0.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\ground\Ground.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\engine_diff_tex_0.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\tank.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\turret_alt_diff_tex_0.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\engine_diff_tex_0.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\tank.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\turret_alt_diff_tex_0.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\font\Arial.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\MingLiweek05.exe
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\MingLiweek05.pdb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.dll
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.xml
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.csprojResolveAssemblyReference.cache
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.exe
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.pdb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_back_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_front_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_left_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_right_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_top_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\skybox.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\ground\3SNe_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\ground\Ground.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\engine_diff_tex_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\tank.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\turret_alt_diff_tex_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\engine_diff_tex_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\tank.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\turret_alt_diff_tex_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\font\Arial.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\MingLiweek05.exe
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\MingLiweek05.pdb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.csprojResolveAssemblyReference.cache
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Audio\tankMove.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Audio\Wind.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Textures\TankCrosshair.PNG
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Textures\TankCrosshair.PNG
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Audio\tankMove.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Audio\Wind.xnb
+C:\Users\42128\OneDrive\Assignment 1\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\shot\ammo.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.exe
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.pdb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Textures\TankCrosshair.PNG
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_back_0.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_front_0.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_left_0.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_right_0.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_top_0.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\skybox.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\ground\3SNe_0.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\ground\Ground.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\engine_diff_tex_0.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\tank.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\turret_alt_diff_tex_0.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\engine_diff_tex_0.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\tank.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\turret_alt_diff_tex_0.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\font\Arial.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Audio\tankMove.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Audio\Wind.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\shot\ammo.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\MingLiweek05.exe
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\MingLiweek05.pdb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.dll
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.xml
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\obj\x86\Debug\MingLiweek05.csprojResolveAssemblyReference.cache
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Wall\BrickPack.xnb
+C:\Users\伟健\Downloads\新建文件夹\ass1\MingLiweek05\bin\Windows\Debug\Content\Models\Wall\BrickWall_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\obj\x86\Debug\MingLiweek05.exe
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\obj\x86\Debug\MingLiweek05.pdb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Textures\TankCrosshair.PNG
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_back_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_front_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_left_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_right_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_top_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\skybox.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\ground\3SNe_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\ground\Ground.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\engine_diff_tex_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\tank.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\turret_alt_diff_tex_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\engine_diff_tex_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\tank.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\turret_alt_diff_tex_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\font\Arial.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Audio\tankMove.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Audio\Wind.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\wall\BrickPack.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\wall\BrickWall_0.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\shot\ammo.xnb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\MingLiweek05.exe
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\MingLiweek05.pdb
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\phila.SARAH-SURFACE\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\obj\x86\Debug\MingLiweek05.csprojResolveAssemblyReference.cache
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\obj\x86\Debug\MingLiweek05.exe
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\obj\x86\Debug\MingLiweek05.pdb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Textures\TankCrosshair.PNG
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_back_0.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_front_0.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_left_0.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_right_0.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_top_0.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\skybox.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\ground\3SNe_0.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\ground\Ground.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\engine_diff_tex_0.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\tank.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\turret_alt_diff_tex_0.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\engine_diff_tex_0.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\tank.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\turret_alt_diff_tex_0.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\font\Arial.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Audio\tankMove.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Audio\Wind.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\wall\BrickPack.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\wall\BrickWall_0.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\Content\Models\shot\ammo.xnb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\MingLiweek05.exe
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\MingLiweek05.pdb
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.dll
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.dll
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.dll
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.xml
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.xml
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.xml
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\OneDrive\UTS\32004 Game Programming\Assignments\Assignment 1\Assignment 1\ass1 wall\MingLiweek05\obj\x86\Debug\MingLiweek05.csprojResolveAssemblyReference.cache
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\obj\x86\Debug\MingLiweek05.exe
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\obj\x86\Debug\MingLiweek05.pdb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_back_0.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_front_0.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_left_0.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_right_0.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\clear_top_0.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\skybox\skybox.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\ground\3SNe_0.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\ground\Ground.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\engine_diff_tex_0.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\tank.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\Tank\turret_alt_diff_tex_0.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\engine_diff_tex_0.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\tank.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\enemyTank\turret_alt_diff_tex_0.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\font\Arial.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Audio\tankMove.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Audio\Wind.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\wall\BrickPack.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\wall\BrickWall_0.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Models\shot\ammo.xnb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\Content\Textures\TankCrosshair.PNG
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\MingLiweek05.exe
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\MingLiweek05.pdb
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.dll
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.xml
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\11911664\Desktop\MingLiAssignment\MingLiweek05\obj\x86\Debug\MingLiweek05.csprojResolveAssemblyReference.cache
